@@ -126,7 +126,6 @@ main .produtos > h1 {
 main .Produto {
     background-color: #D99D55;
     border-radius: 40px;
-    /* flex box */
     display: flex;
     flex-direction: column;
     align-items: center;
